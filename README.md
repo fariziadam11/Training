@@ -1,2 +1,2 @@
 # Training
-just learning programming language
+just learning
